@@ -1,6 +1,6 @@
 ---
 date: 2023-04-01
-featured_image: manja-vitolic-gKXKBY-C-Dk-unsplash.jpg
+featured_image: content/animals/cats/2014/07/IMG_0497.jpg
 title: Cats
 #type: gallery
 sort_by: Name
