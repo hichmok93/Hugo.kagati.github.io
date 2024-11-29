@@ -18,8 +18,8 @@ wget --no-clobber --content-disposition --directory-prefix=content "https://unsp
 #wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/LEpfefQf4rU/download?&force=true&w=1920"
 #wget --no-clobber --content-disposition --directory-prefix=content/animals/cats "https://unsplash.com/photos/nKC772R_qog/download?&force=true&w=1920"
 
-exiftool -ImageDescription="Brown tabby cat on white stairs by Alexander London" content/animals/cats/alexander-london-mJaD10XeD7w-unsplash.jpg
-exiftool -ImageDescription="selective focus photography of orange and white cat on brown table by Amber Kipp" content/animals/cats/amber-kipp-75715CVEJhI-unsplash.jpg
+#exiftool -ImageDescription="Brown tabby cat on white stairs by Alexander London" content/animals/cats/alexander-london-mJaD10XeD7w-unsplash.jpg
+#exiftool -ImageDescription="selective focus photography of orange and white cat on brown table by Amber Kipp" content/animals/cats/amber-kipp-75715CVEJhI-unsplash.jpg
 
 # Animals/Dogs
 #wget --no-clobber --content-disposition --directory-prefix=content/animals/dogs "https://unsplash.com/photos/Sg3XwuEpybU/download?&force=true&w=1920"
