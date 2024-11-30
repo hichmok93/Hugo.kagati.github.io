@@ -11,5 +11,5 @@ menus:
 # sub-galleries on list pages are sorted by date and weight (descending)
 
 params:
-  theme: light
+  theme: dark
 ---
